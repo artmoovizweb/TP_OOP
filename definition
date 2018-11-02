@@ -1,0 +1,9 @@
+<h1>Qu'est ce que l'injection de dépendance ? </h1>
+<p>C'est un model des solution qui permet de mettre en place une communication entre les classes </p>
+
+<h1>Qu'est ce qu'un design pattern observer? </h1>
+<p>C'est une solution utilisé lorsqu'il existe une relation one-to-many entre les objets, pour permettre que les dépendances d'un objet modifié,
+se modifient automatiquement.</p>
+
+<h1>Qu'est ce que le temporal coupling? </h1>
+<p>C'est un model des solution qui permet de mettre en place une communication entre les classes </p>
